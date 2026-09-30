@@ -1,0 +1,13 @@
+{
+  "name": "landing-page-mela-tiago-prause",
+  "version": "1.0.0",
+  "description": "Landing Page de Alta Conversão MELA - Dr. Tiago Prause",
+  "type": "module",
+  "scripts": {
+    "start": "bun run server.ts",
+    "dev": "bun run --watch server.ts"
+  },
+  "keywords": ["mela", "cirurgia", "medicina-estetica", "landing-page", "conversao"],
+  "author": "Dr. Tiago Prause",
+  "license": "Private"
+}
