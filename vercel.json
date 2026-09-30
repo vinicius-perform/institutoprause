@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cp index.html public/ 2>/dev/null || true",
+  "outputDirectory": "public",
+  "cleanUrls": true
+}

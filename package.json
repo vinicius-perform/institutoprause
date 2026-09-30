@@ -4,6 +4,7 @@
   "description": "Landing Page de Alta Conversão MELA - Dr. Tiago Prause",
   "type": "module",
   "scripts": {
+    "build": "cp index.html public/ 2>/dev/null || true",
     "start": "bun run server.ts",
     "dev": "bun run --watch server.ts"
   },
